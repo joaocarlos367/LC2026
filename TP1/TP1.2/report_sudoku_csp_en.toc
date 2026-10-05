@@ -1,0 +1,25 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Theoretical background and choice of technique}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The $\mathrm {alldifferent}$ constraint}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Why CP and not linear integer programming}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Mathematical model}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The groups of classic Sudoku}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Note on the clues}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Implementation}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Requirements and code}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Architecture}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}\texttt {box}: the generic group (R1)}{3}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}\texttt {cube} and \texttt {path} (R2, R3)}{4}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Random clues (R4)}{5}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}CSP model and solving (R5)}{5}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Full Sudoku (R6)}{6}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Validation}{6}{section.5}%
+\contentsline {section}{\numberline {6}Results}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Random puzzles with no solution}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Scale}{7}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Extensions}{7}{section.7}%
+\contentsline {section}{\numberline {8}Discussion and limitations}{7}{section.8}%
+\contentsline {paragraph}{Design decisions.}{7}{section*.2}%
+\contentsline {paragraph}{Limitations.}{8}{section*.3}%
+\contentsline {section}{\numberline {9}Conclusion}{8}{section.9}%
